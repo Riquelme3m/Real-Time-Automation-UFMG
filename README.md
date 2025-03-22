@@ -25,7 +25,7 @@ Ensure you have **g++** installed for compiling C++ programs.
    ```bash
    ./exe data/maze.txt
    ```
-### You can choose from the following maze files:
+### You can choose from the following maze files to test:
 
 - `maze.txt`
 - `maze1.txt`
