@@ -13,7 +13,7 @@ Ensure you have **g++** installed for compiling C++ programs.
 1. Navigate to the **Computational Exercise** directory:
 
    ```bash
-   cd Computational_Exercise
+   cd Computational-exercise-1
    ```
 
 2. Compile the maze_runner.cpp file:
