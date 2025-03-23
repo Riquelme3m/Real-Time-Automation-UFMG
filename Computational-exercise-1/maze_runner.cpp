@@ -160,7 +160,7 @@ bool is_valid_position(int row, int col)
     return false;
 }
 
-// Função principal para navegar pelo labirinto
+// Função principal para navegar pelo Labirinto
 bool walk(Position pos)
 {
 
