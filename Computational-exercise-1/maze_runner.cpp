@@ -6,7 +6,7 @@
 #include <chrono>
 #include <string>
 
-// Representação do labirinto
+// Representação do Labirinto
 using Maze = std::vector<std::vector<char>>;
 
 // Estrutura para representar uma posição no labirinto
@@ -256,6 +256,7 @@ bool walk(Position pos)
 
 int main(int argc, char *argv[])
 {
+    std::cout << "Starting..." << std::endl;
 
     if (argc != 2)
     {
@@ -269,7 +270,6 @@ int main(int argc, char *argv[])
         std::cerr << "Posição inicial não encontrada no labirinto." << std::endl;
         return 1;
     }
-
     bool exit_found = walk(initial_pos);
 
     if (exit_found)
