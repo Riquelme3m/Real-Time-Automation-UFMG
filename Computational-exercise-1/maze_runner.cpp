@@ -256,7 +256,7 @@ bool walk(Position pos)
 
 int main(int argc, char *argv[])
 {
-    std::cout << "Starting..." << std::endl;
+    // std::cout << "Starting..." << std::endl;
 
     if (argc != 2)
     {
