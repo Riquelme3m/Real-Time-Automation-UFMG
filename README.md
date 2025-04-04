@@ -6,7 +6,7 @@ This repository contains programs developed for the **Real-Time Automation** cou
 
 ### Prerequisites
 
-Ensure you have **g++** installed for compiling C++ programs.
+Ensure you have **g++** installed for compiling C++ programs and windows as your operating system.
 
 ## Running the Program
 
